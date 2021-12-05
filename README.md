@@ -2,7 +2,7 @@
 
 使用**容器管理对象**
 
-我们<font color="red"><b>将被管理的对象统称为Bean对象</b></font>
+我们<b><span style="color: red">将被管理的对象统称为Bean对象</span></b>
 
 
 
